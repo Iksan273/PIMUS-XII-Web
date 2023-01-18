@@ -1,2 +1,3 @@
-# PIMUS-XII-Web
-Ofiicial Website PIMUS XII Universitas Surabaya
+# Website PIMUS XI
+
+    Website untuk menangani segala keperluan kegiatan PIMUS XI Universitas Surabaya
